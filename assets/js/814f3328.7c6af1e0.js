@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmu_docusaurus_example=self.webpackChunkmu_docusaurus_example||[]).push([[535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/Docusaurus-MU/blog/welcome"},{"title":"Hello","permalink":"/Docusaurus-MU/blog/hello-world"},{"title":"Hola","permalink":"/Docusaurus-MU/blog/hola"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmu_docusaurus_example=self.webpackChunkmu_docusaurus_example||[]).push([[723],{2685:function(e){e.exports=JSON.parse('{"type":"url","content":"https://petstore.swagger.io/v2/swagger.json"}')}}]);
