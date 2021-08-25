@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Página markdown
 
 En esta página se puede añadir texto facilmente y agregarle formato **como letra negrilla** sin necesidad de agregar código.
