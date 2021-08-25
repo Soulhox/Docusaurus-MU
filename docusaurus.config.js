@@ -20,8 +20,7 @@ module.exports = {
         src: "img/logo.svg",
       },
       items: [
-        { to: "/spec/", label: "bff", position: "left" },
-        { to: "/specUrl/", label: "pet store", position: "left" },
+        { to: "docs/intro", label: "Documentación", position: "left" },
         {
           href: "https://github.com/facebook/docusaurus",
           label: "GitHub",

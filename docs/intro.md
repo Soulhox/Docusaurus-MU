@@ -2,34 +2,18 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Página markdown
 
-Let's discover **Docusaurus in less than 5 minutes**.
+En esta página se puede añadir texto facilmente y agregarle formato **como letra negrilla** sin necesidad de agregar código.
 
-## Getting Started
+## Links
 
-Get started by **creating a new site**.
+Este es un ejemplo de una página que contiene texto explicativo sobre la documentación.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Además del texto markdown, mediante **Redocusaurus** es posible crear paginas que soportan openAPI, para verlas hacer clic **[aquí](OpenApi/spec)**.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
+## Bloques de código
+Es posible agregar segmentos de código entre texto en una página markdown, por ejemplo el comando para inicializar un proyecto de Docusaurus
 ```shell
 npx @docusaurus/init@latest init my-website classic
 ```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
