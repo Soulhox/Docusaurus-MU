@@ -36,43 +36,47 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Tutorial",
-              to: "/docs/intro",
+              label: "bff",
+              to: "/spec/",
+            },
+            {
+              label: "pet store",
+              to: "/specUrl/",
             },
           ],
         },
         {
-          title: "Community",
+          title: "Contacto",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Solicitar servicio",
+              href: "https://web.mensajerosurbanos.com/solicitar-servicio",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Pagina de empresa",
+              href: "https://mensajerosurbanos.com/",
             },
             {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              label: "Plataforma MU",
+              href: "https://plataforma.mensajerosurbanos.com/",
             },
           ],
         },
         {
-          title: "More",
+          title: "Redes sociales",
           items: [
             {
-              label: "Blog",
-              to: "/blog",
+              label: "Facebook",
+              href: "https://www.facebook.com/MensajerosUrbanos/",
             },
             {
-              label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              label: "Instagram",
+              href: "https://www.instagram.com/mensajerosurbanos/",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Juan Sebastian Corredor. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
